@@ -1,8 +1,1 @@
-This is a.txt with klfdjsa;fsad h;kf
-
-
-These are more changes  - I think this is better
-And some extra lines
-
-Jason made this change
-CHANGE ONLY FOR TEST
+Only in test
