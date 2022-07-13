@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 Only in test
 Jason Test branch
 test
+=======
+<<<<<<< HEAD
+This is a.txt with klfdjsa;fsad h;kf
+
+
+These are more changes  - I think this is better
+And some extra lines
+
+Aaron made this change
+=======
+Only in test
+>>>>>>> AtulBranch
+>>>>>>> Aaron
