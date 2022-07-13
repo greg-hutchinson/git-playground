@@ -1,4 +1,6 @@
 This is a.txt with klfdjsa;fsad h;kf
 
 
-These are more changes
+These are more changes  - I think this is better
+
+And some extra lines
