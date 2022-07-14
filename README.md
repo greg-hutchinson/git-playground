@@ -6,4 +6,4 @@ This can be quite an elaborate set of
 * with other points
 * and all sorts of useful documentation
 
-![Grim](images/grim.jpg)
+![Grim](https://photos.app.goo.gl/r5e5CEV1XkgUkkug9)
