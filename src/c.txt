@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 More changes in c
 awesome change
 this is a little change
-=======
 More changes in c
 
 this is a little change
@@ -11,9 +8,7 @@ this is a little change
 awesome change
 
 change this
->>>>>>> main
 
 Aaron 
 =======
 This is a change (bug fix to prod only)
->>>>>>> AtulBranch
